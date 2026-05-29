@@ -13,6 +13,4 @@ Ruby · Rails · JavaScript · Lua/LÖVE · PostgreSQL
 
 #### 📫 Reach me
 
-[Email](mailto:romulostorel@gmail.com)
-
-<!-- Tip: add your LinkedIn here — [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) -->
+[LinkedIn](https://www.linkedin.com/in/romulo-storel/) · [Email](mailto:romulostorel@gmail.com)
